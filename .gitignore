@@ -56,4 +56,5 @@ docs.metadata
 
 # Virtual environment
 env/
-.**.jason
+.*
+*.json
